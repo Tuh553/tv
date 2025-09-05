@@ -653,7 +653,7 @@
             "key": "荐",
             "name": "py_stripchat",
             "type": 3,
-            "api": "./py/py_stripchat.py",
+            "api": "https://hub.glowp.xyz/https://raw.githubusercontent.com/leilingzero/java/b4490ee96e5db31bf434eee7385d73edab16c01a/notes/py/py_stripchat.py",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -685,7 +685,7 @@
             "key": "荐片",
             "name": "色播聚合",
             "type": 3,
-            "api": "./py/色播聚合.py",
+            "api": "https://hub.glowp.xyz/https://raw.githubusercontent.com/leilingzero/java/b4490ee96e5db31bf434eee7385d73edab16c01a/notes/py/py_%E8%89%B2%E6%92%AD%E8%81%9A%E5%90%88.py",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -719,7 +719,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "api": "./py/javxx.py",
+            "api": "https://hub.glowp.xyz/https://raw.githubusercontent.com/leilingzero/java/b4490ee96e5db31bf434eee7385d73edab16c01a/notes/py/javxx.py",
             "ext": {
                 "proxy": {},
                 "plp": ""
